@@ -1,0 +1,82 @@
+body{
+    background-color: white;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 350px;
+    /* background-color: rgb(8, 8, 113); */
+}
+#firstdiv
+{
+   background-color:rgb(14, 14, 55);
+   width: 350px;
+   height: 250px;
+   text-align: center;
+   display:inline-block;
+   border-radius: 20px;
+   color: white;
+   margin-right: 360px;
+}
+#htwo
+{
+    margin-top: 50px;
+}
+#secdiv
+{
+   height: 20px;
+   width: 280px;
+   background-color: rgb(28, 28, 167);
+   margin-left: 40px;
+   border-radius: 5px; 
+   color: white;
+
+}
+#thirddiv
+{
+   height: 20px;
+   width: 280px;
+   background-color: rgb(87, 87, 163);
+   margin-left: 40px;
+   border-radius: 5px;
+   color: white; 
+}
+input
+{
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+}
+#firstbtn
+{
+   background-color: rgb(27, 27, 247);
+   
+
+}
+#firstdivbtn
+{
+    width: 40px;
+    height: 30px;
+    background-color: blue;
+    border-radius: 5px;
+    margin-left: 80px;
+    margin-right: 50px;
+    display: inline-block;
+    color: white;
+}
+#secdivbtn
+{
+    width: 40px;
+    height: 30px;
+    background-color: blue;
+    border-radius: 5px;
+    display: inline-block;
+    margin-left: 25px;
+    color: white;
+}
+#firstbtn
+{
+    background-color: black;
+    border-color: blue;
+    border-radius: 2px;
+    color: white;
+    height: 50px;
+}
